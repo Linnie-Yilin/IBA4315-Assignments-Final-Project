@@ -21,6 +21,5 @@ Yuzhe Yang, Haoqi Zhang, Zhidong Peng, Yilin Guo, Tianji Zhou
 
 ![alt text1](assest/image.png "AI-driven Framework") 
 ![alt text1](assest/ASTGCN.png " Architecture of ASTGCN that is used as the deep learning model in our AI system") 
-![alt text2](assest/ASTGCN.png “The Deep learning model ASTGCN is used in the above Framework”)
 
 
