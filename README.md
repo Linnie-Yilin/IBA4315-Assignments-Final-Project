@@ -1,6 +1,7 @@
 
 # Travel Insurance Recommendation AI Agent
-## CUHKSZ 24-Spring IBA4315 Final Project, ASTGCN+LLM
+
+CUHKSZ 24-Spring IBA4315 Final Project, ASTGCN+LLM
 
 ### Introduction
 
