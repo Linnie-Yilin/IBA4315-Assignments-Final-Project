@@ -30,6 +30,6 @@ Our deep learning model uses the ASTGCN framework to predict flight delays based
 
 [report](assest/report.pdf "Project report is showing here")
 
-[ppt](assest/report.pdf)
+[ppt]([assest/report.pdf](https://cuhko365-my.sharepoint.com/:p:/g/personal/121020064_link_cuhk_edu_cn/EeZSiXgHQB9Dq-2wFqcVypUBuUREppF42pGmyjBsHWRVqw))
 
 
