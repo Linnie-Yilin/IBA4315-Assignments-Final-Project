@@ -19,7 +19,17 @@ Yuzhe Yang, Haoqi Zhang, Zhidong Peng, Yilin Guo, Tianji Zhou
 
 ### Framework
 
-![alt text1](assest/image.png "AI-driven Framework") 
-![alt text1](assest/ASTGCN.png " Architecture of ASTGCN that is used as the deep learning model in our AI system") 
+<img src="assest/image.png" alt=" AI-driven Framework" width="300"/>
+
+Our deep learning model uses the ASTGCN framework to predict flight delays based on spatio-temporal data. This framework captures both temporal and spatial correlations in the data for accurate predictions.
+
+<img src="assest/ASTGCN.png" alt=" Architecture of ASTGCN that is shown" width="300"/>
+
+
+### Details
+
+[report](assest/report.pdf "Project report is showing here")
+
+[ppt](assest/report.pdf)
 
 
