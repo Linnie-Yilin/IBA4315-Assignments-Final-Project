@@ -19,8 +19,8 @@ import matplotlib.pyplot as plt
 import scienceplots
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes
 
-c_path = '/home/zhangmin/toby/IBA_Project_24spr/data/ch_flight_data'
-u_path = '/home/zhangmin/toby/IBA_Project_24spr/data/us_flight_data'
+c_path = '../data/ch_flight_data'
+u_path = '../data/us_flight_data'
 
 
 class StandardScaler:
